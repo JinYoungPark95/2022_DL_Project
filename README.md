@@ -11,6 +11,10 @@
   Optimizer: SGD/ dropout :0.8 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Get7Q-361X1FvYPQk10OQMtv9gp23VY6?usp=sharing)
   
   Optimizer: Adam/ dropout :0.8 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ssyLQdu5upuX7WfU6Af8ar-ewn0OgicI?usp=sharing)
+  
+  B4 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gg4x-6U-wLKk0BlwuWn8VUR25WK-KedT?usp=sharing)
+  
+  B7 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_harrqFaUdpBam8bQr8Xi28dKlS4rc0D?usp=sharing)
 
 
 - MobileNet : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EuycoCVVuNml-dboF0H7i-QgixPOtEuQ?usp=sharing)
