@@ -1,7 +1,7 @@
 # 2022_DL_Project
 
-- EfficientNet : 
-- 
+- EfficientNet  
+
   Optimizer: RmsProp/ no dropout [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MOPueNIVVNaJ-4tSxFwoSORmYs3X13jI?usp=sharing)
   
   Optimizer: RmsProp/ dropout :0.8 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_cBRvaKXRUp5P-7xr93iXZspBGtFsT48?usp=sharing)
