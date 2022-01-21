@@ -22,10 +22,10 @@
 - VGGnet : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uqfeVku89SaweM5tiKkPP_KX55AjOp4Q?usp=sharing)
 
 - ResNet
-  50 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  50 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Md7wEmyOZdOlyRzQyLQqDyETbIFmKiTR?usp=sharing)
   
-  101 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  101 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tWe6pOYk1cNUU1OjPdbvNqF0t6lsXSo_?usp=sharing)
   
-  152 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  152 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_mp06SDWZ5u2Ql-HuJ_8NjGlYhd8jaEn?usp=sharing)
 
-- DenseNet : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- DenseNet : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11OsBexMRfnJQ4KBM1db7zoUdpzgmGgLz?usp=sharing)
