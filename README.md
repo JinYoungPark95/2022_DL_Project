@@ -19,8 +19,13 @@
 
 - MobileNet : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EuycoCVVuNml-dboF0H7i-QgixPOtEuQ?usp=sharing)
 
-- VGGnet
+- VGGnet : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uqfeVku89SaweM5tiKkPP_KX55AjOp4Q?usp=sharing)
 
 - ResNet
+  50 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  
+  101 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  
+  152 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
-- DenseNet
+- DenseNet : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
